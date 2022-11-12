@@ -7,4 +7,4 @@ A = np.array([
     ['g', 'h', 'i']
 ])
 
-print(A[:, :2])
+print(A[:, :2]) #[rows,columns]
