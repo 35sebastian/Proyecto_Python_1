@@ -1,3 +1,6 @@
+#   
+#   Mi resolución: 
+#    
 #   payaso=450
 #   osito=520
 #   uclown=int(input("ingrese la cantidad de payasos vendidos:"))
