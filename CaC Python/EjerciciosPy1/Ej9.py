@@ -1,16 +1,20 @@
-#inversion = float(input("Introduce la cantidad a invertir: "))
-#interes= int(input("Introduce el porcentaje de interés anual: "))
-#anos= int(input("Introduce el número de años de inversión: "))
+#   
+#   Mi resolución: 
+#    
+#   inversion = float(input("Introduce la cantidad a invertir: "))
+#   interes= int(input("Introduce el porcentaje de interés anual: "))
+#   anos= int(input("Introduce el número de años de inversión: "))
+#   
+#   '''
+#   capital = 0
+#   
+#   for i in range(anos):
+#     inversion = inversion + (inversion * (interes *0.01)) 
+#     capital += inversion
+#     '''
+#   
+#   print("el interes obtenido por la inversion en", anos, " años es de: ", inversion*(interes*0.01)*anos)
 #
-#'''
-#capital = 0
-#
-#for i in range(anos):
-#  inversion = inversion + (inversion * (interes *0.01)) 
-#  capital += inversion
-#  '''
-#
-#print("el interes obtenido por la inversion en", anos, " años es de: ", inversion*(interes*0.01)*anos)
 
 # amount = float(input("¿Cantidad a invertir? "))
 # interest = float(input("¿Interés porcentual anual? "))
